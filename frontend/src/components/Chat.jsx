@@ -1,5 +1,6 @@
 import axios from "axios";
 import { useState } from "react";
+const API_URL = import.meta.env.VITE_API_URL;
 
 export default function Chat() {
   const [question, setQuestion] = useState("");
@@ -15,7 +16,7 @@ export default function Chat() {
     setLoading(true);
 
     try {
-      const res = await axios.post("http://localhost:8000/chat", {
+      const res = await axios.post(`${API_URL}/chat`, {
         question,
       });
 

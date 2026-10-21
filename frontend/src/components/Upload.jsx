@@ -1,5 +1,6 @@
 import axios from "axios";
 import { useState } from "react";
+const API_URL = import.meta.env.VITE_API_URL;
 
 export default function Upload() {
   const [file, setFile] = useState(null);
@@ -18,7 +19,7 @@ export default function Upload() {
       formData.append("file", file);
 
       const res = await axios.post(
-        "http://localhost:8000/upload",
+        `${API_URL}/upload`,
         formData
       );
 
