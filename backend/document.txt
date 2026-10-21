@@ -1,0 +1,49 @@
+SHRUTI BHIMRJKA
+FRONTEND ENGINEER | AI ENTHUSIAST
+Rajasthan, India | +91 7220096989 | shrutibhimrajka1999@gmail.com
+PROFILE SUMMARY
+Frontend Engineer with 5+ years of experience building scalable and interactive web applications using ReactJS and Next.js. Skilled
+in developing advanced UI systems including canvas-based coordinate mapping, workflow visualization using ReactFlow, and real-
+time interfaces using WebSockets. Experienced in building client-facing demos and enterprise solutions for organizations while
+collaborating with backend and AI teams to deliver end-to-end applications. Passionate AI enthusiast exploring intelligent systems
+and AI-powered applications.
+EXPERIENCE
+Software Engineer | Frontend Engineer Celebal Technologies | 2024 – Present
+Developed scalable frontend applications using ReactJS and Next.js for AI-driven enterprise platforms.
+Built advanced UI features including canvas-based coordinate mapping systems for document annotation and visual data interaction.
+Implemented workflow visualization using ReactFlow to represent pipelines, system graphs, and process flows.
+Developed interfaces for PDF data extraction and automated PDF generation from structured JSON data.
+Integrated WebSocket-based real-time communication for live updates and dynamic dashboards.
+Built rapid UI prototypes and demo platforms for enterprise clients including HDFC, Miral, and Mankind.
+Contributed to development of the Celebal Technologies corporate website as part of a collaborative engineering team.
+Worked closely with backend teams to integrate REST APIs and AI pipeline outputs into frontend systems.
+Created Low Level Designs (LLDs) and technical documentation using Visio to support scalable UI architecture.
+Software Engineer Freelancer | Oct 2021 - Oct 2024
+Worked with 9–10 clients to design and develop custom web applications tailored to business needs
+Built and deployed production-ready websites using ReactJS and Next.js
+Successfully deployed applications on platforms like Vercel for fast and reliable hosting
+Helped clients improve their online presence and business growth through optimized and scalable web solutions
+Delivered end-to-end solutions including development, deployment, and basic performance optimization
+Associate Software Engineer Ransoys Technologies | June 2021 -Oct 2021
+Developed responsive web applications using ReactJS, JavaScript, HTML, and CSS.
+Built reusable UI components and integrated them with backend APIs.
+Participated in the complete development lifecycle including design, development, debugging, and deployment.
+Worked with databases to store and manage application data.
+EDUCATION
+B.Tech – Computer Science Engineering
+Rajasthan Technical University
+2017 – 2021
+SKILLS
+Frontend ReactJS, JavaScript (ES6+), HTML5, CSS3, Responsive Design, ReactFlow, Canvas API
+Skills FastAPI, REST APIs, WebSockets, MongoDB, Azure Devops, Github, Visio, Excel
+AI Tools Databricks (Pipelines, Jobs, Apps), Gradio, LLM Integration, AI Agent Development,
+Prompt Engineering
+KEY PROJECTS
+Document Annotation Platform
+Built a React canvas-based UI enabling users to map coordinates and annotate document regions.
+Enabled structured data extraction workflows for document processing systems.
+Workflow Visualization System
+Developed interactive pipeline visualization using ReactFlow.
+Allowed users to monitor processes, nodes, and dependencies visually.
+Real-time Data Visualization
+Implemented WebSocket integration for real-time updates.
